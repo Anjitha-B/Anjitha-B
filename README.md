@@ -1,6 +1,6 @@
 # Hi there, I'm Anjitha Balachandran 👋
 
-### Product-Minded Software Engineer | MS in MIS @ UB 
+### Product-Minded Software Engineer | Building AI- driven Solution 
 
 I am a software engineer with 5+ years of experience (ex-Xerox) who builds with the "why" in mind. I specialize in bridging the gap between complex engineering and user-centric product design, currently focusing on AI-integrated applications and scalable cloud architectures.
 
