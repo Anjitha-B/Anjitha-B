@@ -13,7 +13,7 @@ I build things that work — and explain them to people who need to decide wheth
 running technical discovery with enterprise stakeholders, and serving as the 
 primary technical point of contact on global client accounts.
 
-Now targeting **Solutions Engineering** and **Implementation Engineering** roles 
+Now targeting **Technical Consultant** and **Implementation Engineering** roles 
 at AI-forward companies — where technical depth and customer instinct matter equally.
 
 ---
