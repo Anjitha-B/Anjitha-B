@@ -59,7 +59,7 @@ or implementation context.
 
 ## Currently
 
-- Open to **Solutions Engineer** and **Implementation Engineer** roles  
+- Open to **Technical Consultant** and **Implementation Engineer** roles  
   at companies building or selling AI products to enterprise customers
 
 ---
